@@ -37,6 +37,14 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/><br>
       CSS
     </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/><br>
+      Jupyter
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/streamlit-2.svg" width="60" height="60"/><br>
+      Streamlit
+    </td>
   </tr>
 </table>
 
