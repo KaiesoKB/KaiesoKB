@@ -6,8 +6,6 @@
 I am a Data Analyst with a background in Computer Science, using Python, SQL, and statistical modeling to extract insights and support decision-making. I focus on practical, well-structured analysis and clear data storytelling through dashboards and reports. I am currently developing machine learning skills through hands-on projects in risk analytics and predictive modeling.
 
 ### 🛠️ Tools & Technologies
-
-#### Data & Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
 
