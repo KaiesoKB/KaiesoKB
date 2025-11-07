@@ -15,7 +15,7 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="60" height="60" alt="Excel"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60" height="60" alt="Excel"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
  
