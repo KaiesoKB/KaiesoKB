@@ -27,42 +27,39 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
 </p>
 
 ### 🛠️ Tools & Technologies
-<p align="left">
-  <span style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br>
-    Python
-  </span>
 
-  <span style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="SQL"/><br>
-    SQL
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI"/><br>
-    Power BI
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60" height="60" alt="Excel"/><br>
-    Excel
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/><br>
-    Git
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML"/><br>
-    HTML
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS"/><br>
-    CSS
-  </span>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>
+      SQL
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60"/><br>
+      Power BI
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60" height="60"/><br>
+      Excel
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/><br>
+      HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/><br>
+      CSS
+    </td>
+  </tr>
+</table>
 
 
 
