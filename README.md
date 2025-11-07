@@ -9,25 +9,25 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
 
 #### Data & Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
   Python
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="SQL"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="SQL"/>
   SQL
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI"/><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI"/>
   Power BI
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" width="60" height="60" alt="Excel"/><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" width="60" height="60" alt="Excel"/>
   Excel
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
   Git
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML"/>
   HTML
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS"/>
   CSS
 </p>
 
