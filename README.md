@@ -42,7 +42,7 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
       Jupyter
     </td>
     <td align="center" style="border: none; padding: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/><br>
       Streamlit
     </td>
   </tr>
