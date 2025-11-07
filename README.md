@@ -60,6 +60,9 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
   </tr>
 </table>
 
+![Kylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KylanBaksh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KylanBaksh&layout=compact)
+
 
 
 
