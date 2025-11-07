@@ -61,7 +61,7 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
 </table>
 
 ### Certifications
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Data%20Analysis%20with%20Python-0A0A0A?style=for-the-badge&logo=free-code-camp&logoColor=white)](https://www.freecodecamp.org/certification/kylan_baksh/data-analysis-with-python-v7)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Data%20Analysis%20with%20Python-0A0A0A?style=for-the-badge&logo=free-code-camp&logoColor=white)](https://www.freecodecamp.org/certification/kylan_baksh/data-analysis-with-python-v7)<br>
 [![Kaggle](https://img.shields.io/badge/Kaggle-Intro%20tp%20SQL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/kylanbaksh/intro-to-sql)
 
 <!--
