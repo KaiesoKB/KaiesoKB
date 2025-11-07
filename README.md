@@ -61,8 +61,8 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
 </table>
 
 ### Certifications
-- [FreeCodeCamp: Data Analysis with Python](https://www.freecodecamp.org/certification/kylan_baksh/data-analysis-with-python-v7)
-- [Kaggle: Python for Data Science](https://www.kaggle.com/learn/certification/kylanbaksh/intro-to-sql)
+![FreeCodeCamp](https://www.freecodecamp.org/certification/kylan_baksh/data-analysis-with-python-v7)
+![Kaggle](https://www.kaggle.com/learn/certification/kylanbaksh/intro-to-sql)
 
 <!--
 **KaiesoKB/KaiesoKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
