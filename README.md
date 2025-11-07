@@ -7,7 +7,7 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
 
 ### View my work Here:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white)]([https://your-portfolio-link.com](https://kylanbaksh-data-portfolio.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white)]((https://kylanbaksh-data-portfolio.netlify.app/))
 
 ### Contact me Here:
 
