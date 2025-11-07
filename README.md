@@ -60,6 +60,10 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
   </tr>
 </table>
 
+### Certifications
+- [FreeCodeCamp: Data Analysis with Python](#https://www.freecodecamp.org/certification/kylan_baksh/data-analysis-with-python-v7)
+- [Kaggle: Python for Data Science](#https://www.kaggle.com/learn/certification/kylanbaksh/intro-to-sql)
+
 ![Kylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiesoKB&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiesoKB&layout=compact)
 
