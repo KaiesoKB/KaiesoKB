@@ -9,7 +9,7 @@ I am a Data Analyst with a background in Computer Science, using Python, SQL, an
 
 <table style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="border: none; padding: 0px;">
+    <td align="center" style="border: none; padding: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/><br>
       Python
     </td>
